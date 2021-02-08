@@ -11,7 +11,7 @@ El Power BI presenta en total 14 páginas:
 
 ## Consideraciones
 
-* El cumplimiento de cada práctica tiene asociado un color: 
+ El cumplimiento de cada práctica tiene asociado un color: 
 - Rojo para un desempeño deficiente (0 - 79%)
 - Amarillo para un desempeño intermedio (80-89%)
 - Verde para un desempeño bueno (90-99%)
